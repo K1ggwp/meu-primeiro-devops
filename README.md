@@ -1,1 +1,1 @@
-Estudo de DevOps em sala de aula
+Estudo de DevOps em sala de aula.
